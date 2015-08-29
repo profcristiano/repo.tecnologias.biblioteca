@@ -7,7 +7,7 @@
 <title>Biblioteca - Login</title>
 </head>
 <body>
-	<form method="get">
+	<form action="processa" method="post">
 		<table>
 			<tr>
 				<td><label for="idusuario">Usuário:</label></td>
